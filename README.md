@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/ZFInnovation/AzDevOpsTest/_apis/build/status/jglazko.pipelines-java?branchName=master)](https://dev.azure.com/ZFInnovation/AzDevOpsTest/_build/latest?definitionId=9&branchName=master)
 
-# Contributing to this Project
+# SAMPLE PROJECT ONLY. NO PRODUCTIVE CODE.
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
